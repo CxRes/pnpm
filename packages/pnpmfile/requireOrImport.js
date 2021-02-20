@@ -1,4 +1,4 @@
-import libUrl = require('url');
+const libUrl = require('url');
 
 async function esmFileLoader(filePath) {
   try {
